@@ -1,5 +1,9 @@
-### Hi there 👋
+Hey 👋, Myself Yash Modi
+========================
 
+### A dedicated frontend developer from India
+
+### Connect with me:
 <!--
 **yashmodi9998/yashmodi9998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
