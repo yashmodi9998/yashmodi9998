@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Web Development**
 
-- 📫 How to reach out to me **yashmodi9998@gmail.com**
+- 📫 How to reach out to me **yashmodi998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
