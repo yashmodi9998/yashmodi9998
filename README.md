@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently studying **Web Development**
 
-- 🌱 I’m currently learning **React JS, Python**
-
-- 📫 How to reach me **yashmodi9998@gmail.com**
+- 📫 How to reach out to me **yashmodi9998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
