@@ -9,7 +9,7 @@ Hey 👋, Myself Yash Modi
   
 ## Education 
 - Bachelor of Engineering, Computer Engineer [2016–2020] from CKPCET, India
-- Post Graduation in Web Development [2023-2024] from Humber College - North Campus
+- Post Graduation in Web Development [2023-2024] from Humber College, North Campus
 
 ## Experience
 - Infozium IT Solution [Oct 2020 - Apr 2021]
