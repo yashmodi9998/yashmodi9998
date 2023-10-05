@@ -5,11 +5,11 @@ Hey 👋, Myself Yash Modi
 
 ![yashmodi9998](https://komarev.com/ghpvc/?username=yashmodi9998&label=Profile%20views&color=0e75b6&style=flat)
 
-- I’m currently studying **Web Development** in Humber College, Toronto, Canada.
+- I’m currently studying **Web Development** in Humber College in Toronto, Canada.
   
 ## Education 
-- Bachelor of Engineering, Computer Engineer [2016–2020] from CKPCET, India.
-- Post Graduation in Web Development [2023-2024] from Humber College, North Campus.
+- Bachelor of Engineering, Computer Engineer [2016–2020] from CKPCET, India
+- Post Graduation in Web Development [2023-2024] from Humber College, North Campus
 
 ## Experience
 - Infozium IT Solution [Oct 2020 - Apr 2021]
