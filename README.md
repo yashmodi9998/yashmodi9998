@@ -17,7 +17,7 @@ I'm a dedicated developer with international experience and a strong passion for
 
 ## 💼 Experience
 
-- 💻 **Web Developer – KidsWorld Record** - Toronto *(Apr 2024 – Aug 2024)*
+- 💻 **Web Developer – KidsWorld Record Media** - Toronto *(Apr 2024 – Aug 2024)*
 - 💻 **Web Developer – Prelax Infotech** -India *(Nov 2022 – May 2023)*
 - 💼 **Assistant System Engineer – Tata Consultancy Services** - India *(Apr 2021 – Oct 2022)*  
 - 🧪 **Junior Web Developer – Infozium IT Solutions** - India *(Oct 2020 – Apr 2021)* 
