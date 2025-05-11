@@ -1,20 +1,26 @@
 Hey 👋, Myself Yash Modi
 ========================
 
-### A dedicated developer from India
+### ### 💻 A Passionate Full Stack & React Developer Based in Toronto, Canada
 
 ![yashmodi9998](https://komarev.com/ghpvc/?username=yashmodi9998&label=Profile%20views&color=0e75b6&style=flat)
 
-- I’m currently studying **Web Development** in Humber College in Toronto, Canada.
-  
-## Education 
-- Bachelor of Engineering, Computer Engineer [2016–2020] from CKPCET, India
-- Post Graduation in Web Development [2023-2024] from Humber College, North Campus
+I'm a dedicated developer with international experience and a strong passion for building modern, responsive, and scalable web applications. I specialize in **JavaScript**, **React.js**, **PHP**, and have hands-on exposure to **AWS** and **machine learning fundamentals**.
 
-## Experience
-- Infozium IT Solution [Oct 2020 - Apr 2021]
-- Tata Consultancy Service [Apr 2021 - Oct 2022]
-- PreLax IT Solution [Nov 2022 - May 2023]
+---
+
+## 🎓 Education
+
+- 🎓 **Bachelor of Engineering in Computer Engineering** (2016–2020) – CKPCET, India  
+- 🧠 **Post-Graduate Certificate in Web Development** (2023–2024) – Humber College, Toronto  
+- 🤖 **Post-Graduate Certificate in Artificial Intelligence with Machine Learning** (2024–2025) – Humber College, Toronto
+
+## 💼 Experience
+
+- 💻 **Web Developer – KidsWorld Record** - Toronto *(Apr 2024 – Aug 2024)*
+- 💻 **Web Developer – Prelax Infotech** -India *(Nov 2022 – May 2023)*
+- 💼 **Assistant System Engineer – Tata Consultancy Services** - India *(Apr 2021 – Oct 2022)*  
+- 🧪 **Junior Web Developer – Infozium IT Solutions** - India *(Oct 2020 – Apr 2021)* 
   
 ## 💼 Technical Skills
 
